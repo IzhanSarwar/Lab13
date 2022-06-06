@@ -1,6 +1,6 @@
 package Lab9;
 
-public class Main {
+public class Main Github {
 	public static void main(String[] args) {
 		Loan l = new Loan();
 		l.print();
